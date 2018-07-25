@@ -143,6 +143,10 @@ var drillDown = {
 * 以上简要叙述了需求以及实现的基本思想。
 * 使用静态数据实现了一个样例，具体实现还要后端接口的配合，这里介绍了接口的设计思想
 * 以上内容参考了折线图下钻功能的实现https://github.com/phping1/echarts3-line-drilldown
+<<<<<<< HEAD
+=======
+
+>>>>>>> 773ede8150cf65ee55a4ac1e0d373151f1c06b5d
 * 查看本项目可访问https://github.com/LiFH/bar-drilldown-master.git
 
 
