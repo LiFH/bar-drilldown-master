@@ -74,6 +74,10 @@ var drillDown = {
             12,13,15,16,20,12,30,21,22,29,
             30,31,33,34,35,36,20,29,33,40
         ];
+        option.legend.data= ['日数据'];
+                    
+        option.series[0].name=['日数据'];
+                    
         myChart.setOption(option, true);
     });
   },
