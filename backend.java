@@ -1,4 +1,4 @@
-@RequestMapping("selectBymonth.do")
+@RequestMapping("selectBycategory.do")
     @ResponseBody
     public ServerResponse addCategory(HttpSession session,String month){
 		Map<String, Object>  map  =  new HashMap<>(); 
